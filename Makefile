@@ -1,7 +1,3 @@
-# Samantha Foley
-#
-# CS441/541: Project 3
-#
 #####################################################################
 #
 # Type "make" or "make mysh" to compile your code

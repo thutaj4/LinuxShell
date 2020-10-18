@@ -2,7 +2,7 @@
 
 ## Author(s):
 
-Aj Thut, Jack Bates
+Aj Thut
 
 ## Date:
 

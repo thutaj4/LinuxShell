@@ -33,7 +33,7 @@ Run the program with "./mysh.c"
 
 The program can operate in two modes, batch or interactive mode.
 
-Choose batch mode by passing in text files that contain the commands to execute.
+Choose batch mode by passing in text files that contain the commands to execute. For example, "./mysh example.txt example2.txt"
 Place commands in text file, program can go through all files passed in and will exit once done.
 
 Choose interactive mode by passing in no commands and enter them as the shell runs.

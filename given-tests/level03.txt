@@ -1,0 +1,16 @@
+date
+sleep 3 & sleep 2 & sleep 1 &
+jobs
+
+sleep 1
+jobs
+
+sleep 1
+jobs
+
+sleep 1
+jobs
+
+sleep 2 &
+jobs
+date

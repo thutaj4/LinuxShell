@@ -1,0 +1,6 @@
+/bin/date
+/bin/pwd
+/bin/ls tests ..
+history
+/bin/pwd ; ls ..
+sleep 5 & /bin/sleep 3 &

@@ -1,0 +1,14 @@
+date &
+pwd
+date & date &
+pwd
+date & date & date & date & date & date & date & date & date & date & date & date & date & date & date & date & date & date &
+pwd
+jobs
+pwd
+date
+sleep 1 & sleep 2 & sleep 3 & sleep 4 &
+date
+pwd
+jobs
+pwd

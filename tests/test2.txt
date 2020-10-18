@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+date > out.txt
+ls tests > out.txt
+ls > out.txt
+
+
+history
+
+
+ls > newfile.txt
+echo 1 > newfile.txt
+
+
+
+
+
+exit

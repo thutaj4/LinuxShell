@@ -1,0 +1,12 @@
+ls & ls ; ls & ls ; ls & ls
+history ; jobs ; fg ; wait ;
+echo 1 & echo 2 & echo 3 &     echo 4 &   echo 5 &     echo 6
+wait
+jobs
+fg 0
+fg 1
+fg 2 
+fg 3
+fg 4
+history 
+exit

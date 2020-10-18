@@ -1,0 +1,8 @@
+echo 1 2 3
+ls . ; echo 1 2
+ls . & echo 1 2 &
+jobs
+echo next
+sleep 5 & sleep 4 & sleep 3 & sleep 2 & sleep 1 &
+jobs
+exit

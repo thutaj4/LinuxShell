@@ -1,0 +1,10 @@
+ls tests &
+sleep 100 &
+history
+jobs
+wait
+fg
+history &
+jobs &
+fg
+wait &

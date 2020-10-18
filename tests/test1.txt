@@ -1,0 +1,8 @@
+sleep 5 & sleep 10 & date &
+jobs
+wait
+history
+jobs &
+echo 1 2 3 4 5 ; echo 1 2 3 4 5 ; echo 1 2 3 4 5
+echo 1 2 3 4 5 & echo 1 2 3 4 5 & echo 1 2 3 4 5 &
+cat tests/file1.txt
